@@ -23,7 +23,7 @@ class Quadrilateral {
 		}
 
 		public function setWidth($width) {
-			$this->_width = $width+2;
+			$this->_width = $width;
 		}
 
 		public function setHeight($height) {
